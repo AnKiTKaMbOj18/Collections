@@ -8,7 +8,8 @@ public class TestArrayLinked {
 	list.add("ammy");
 	list.add("peter");
 	list.add("roger");
-	
+        
+	//this  is LinkedList in collections
 	LinkedList<String> list2=new LinkedList<String>();
 	list2.add("abd");
 	list2.add("duplessis");
