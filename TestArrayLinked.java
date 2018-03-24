@@ -3,6 +3,7 @@ import java.util.*;
 public class TestArrayLinked {
 
 	public static void main(String[] args) {
+	//this is ArrayList
 	ArrayList<String> list=new ArrayList<String>();
 	list.add("ammy");
 	list.add("peter");
